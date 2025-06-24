@@ -34,14 +34,14 @@ A sleek and fully-featured e-commerce website prototype built using React, TypeS
 
 ### Installation
 
-\`\`\`bash
+```
 - git clone https://github.com/nawaalintesar/E-commerce-Store.git
 - cd project
 - npm install
 - npm run dev
-\`\`\`
+```
 
-Visit \`http://localhost:5173\` to view the app locally.
+Visit http://localhost:5173 to view the app locally.
 
 ---
 
