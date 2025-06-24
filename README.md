@@ -2,8 +2,6 @@
 # ModernStore – Premium E-commerce Website
 A sleek and fully-featured e-commerce website prototype built using React, TypeScript, and Tailwind CSS. This project showcases modern frontend development practices, emphasizing responsive design, clean architecture, and an intuitive user experience.
 ---
-## A brief look at the UI/UX in the website
-
 ## ✨ Features
 
 ### 🛍️ Core E-commerce Functionality
