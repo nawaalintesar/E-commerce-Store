@@ -2,6 +2,7 @@
 # ModernStore – Premium E-commerce Website
 A sleek and fully-featured e-commerce website prototype built using React, TypeScript, and Tailwind CSS. This project showcases modern frontend development practices, emphasizing responsive design, clean architecture, and an intuitive user experience.
 ---
+## A brief look at the UI/UX in the website
 
 ## ✨ Features
 
@@ -85,11 +86,9 @@ Visit \`http://localhost:5173\` to view the app locally.
 ## 📬 Contact
 **Nawaal Intesar**  
 !! Available for freelancing
-📧 nawaalintesar9@gmail.com
-📞 Phone: +971-54-599-7919 
-💬 WhatsApp: [Chat on WhatsApp](https://wa.me/971545997919)  
-🔗 LinkedIn: [Your LinkedIn Profile](📞 Phone: +971-XX-XXX-XXXX  
-💬 WhatsApp: [Chat on WhatsApp](https://wa.me/971XXXXXXXXX)  
-🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
-🔗 [GitHub Profile](https://github.com/nawaalintesar) 
+- 📧 nawaalintesar9@gmail.com
+- 📞 Phone: +971-54-599-7919 
+- 💬 WhatsApp: [Let's chat on Whatsapp](https://wa.me/971545997919)  
+- 🔗 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/yourusername)
+- 🔗 [GitHub Profile](https://github.com/nawaalintesar) 
 
